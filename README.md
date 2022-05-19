@@ -73,16 +73,27 @@ You need to be Kaggle Contributor to be able to participate in this course's Cap
 3. Try to get as much information as you can. Use the following tools or any other you may like
 
 •	Tubics - https://app.tubics.com/dashboard?channel=UCllefjGak7WtAV3sVcRy9xQ
+
 •	Popster - https://popsters.com/
+
 •	UnMetric - https://unmetric.com/
+
 •	Channel Meter - https://channelmeter.com/
+
 •	Vidooly - https://vidooly.com/
+
 •	Dasheero - https://www.dasheroo.com/
+
 •	Geckoboard - https://www.geckoboard.com/
+
 •	Social Report - https://www.socialreport.com/
+
 •	BrandWatch - https://www.brandwatch.com/products/consumer-research/
+
 •	BuzzSumo - https://buzzsumo.com/use-cases/video-marketing/
+
 •	Social Blade - https://socialblade.com/
+
 •	Tabular - https://tubularlabs.com/products/tubular-intelligence/
 
 4. Write a brief report with visual displays about the channel and upload a PDF
@@ -164,10 +175,15 @@ Instant Check Mate - https://www.instantcheckmate.com/
 
 
 **Video title:** What is Kaggle?
+
 Kaggle Book: https://gufhtugu.com/product/kaggle-for-begginers/
+
 My Kaggle Profile - https://www.kaggle.com/zusmani
+
 Kaggle Kernels - https://www.kaggle.com/zusmani/notebooks
+
 Kaggle Discussions - https://www.kaggle.com/zusmani/discussion
+
 Kaggle Datasets - https://www.kaggle.com/zusmani/datasets
 
 ===========================================
