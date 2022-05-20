@@ -4,10 +4,9 @@
 
 Dear Students,
 
-I have uploaded all relevant material here for your quick access and learning. I hope you will find it beneficiary.
+All papers, books, code and links are given here for your review.
 
-
-Yours Truly,
+Keep Learning!
 
 Zeeshan
 
